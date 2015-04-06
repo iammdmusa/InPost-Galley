@@ -1,5 +1,5 @@
 #STEP 1:
-Open InPost-Gallery/functionsost-Gallery/functions.php file then copy the all and past your theme/theme-name/functions.php.
+Open InPost-Gallery/functions.php file then copy the all and past your theme/theme-name/functions.php.
 
 #STEP 2:
 	Open the InPost-Gallery/style.css and copy opy the all and past your theme/theme-name/style.css file .
