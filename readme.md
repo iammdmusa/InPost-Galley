@@ -1,9 +1,15 @@
-#Open the functions.php file then copy all and past your theme/theme-name/functions.php 
-#open the style.css and copy this and put this style in your theme style file.
-#open then js.js file copy the and past this in your themes js file.
+#STEP 1:
+Open InPost-Gallery/functionsost-Gallery/functions.php file then copy the all and past your theme/theme-name/functions.php.
 
-Then Go --> New Post .. click add media then left top "create Gallery" then click this .... slecte your images with set the image size in top right.
-then save .
+#STEP 2:
+	Open the InPost-Gallery/style.css and copy opy the all and past your theme/theme-name/style.css file .
+#STEP 3:
+	Open then InPost-Gallery/js.js file copy copy opy the all and past your theme/theme-name/js/ any .js  file .
+	
+	
+#STEP 4:
+	The go to the WordPress Admin area and then click "New Post"--> Top Left you can see the "Create Gallery" then make us previous your WordPress default Gallery ... select the images ... Bottom right "clcik this on the button" and set your desire images size then saved. 
+
 
 Thank you
 Md.Musa
